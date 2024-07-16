@@ -16,4 +16,4 @@ WORKDIR /app
 
 COPY --from=build-env /app/out .
 
-ENTRYPOINT [ "dotnet", "DockerAPI.dll" ]
+ENTRYPOINT [ "dotnet", "EvGDecisionAnalysis.dll" ]
