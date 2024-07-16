@@ -8,7 +8,6 @@
 
 
   <ItemGroup>
-    <Compile Include="Docker" />
     <Compile Include="Docker\**\*.cs" />
     <Content Include="Docker\**\*" />
   </ItemGroup>
