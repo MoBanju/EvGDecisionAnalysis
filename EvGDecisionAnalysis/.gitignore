@@ -1,0 +1,39 @@
+# Ignore Visual Studio files
+.vs/
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.ide
+
+# Ignore build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Nn][Yy]/
+
+# Ignore NuGet packages
+/packages/
+
+# Ignore build artifacts
+*.dll
+*.pdb
+*.exe
+*.zip
+*.rar
+
+# Ignore project-specific files
+*.cache
+*.log
+*.sqlite
+
+# Ignore ReSharper files
+_ReSharper*/
+
+# Ignore Node.js dependencies (if any)
+node_modules/
+
+# Ignore Mac-specific files
+.DS_Store
