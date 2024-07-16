@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EvGDecisionAnalysisTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+096ed9e2db3e07410ea641716f65252da81a389c")]
 [assembly: System.Reflection.AssemblyProductAttribute("EvGDecisionAnalysisTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EvGDecisionAnalysisTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
