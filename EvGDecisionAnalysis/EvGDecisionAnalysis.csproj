@@ -9,6 +9,8 @@
 
   <ItemGroup>
     <Compile Include="Docker" />
+    <Compile Include="Docker\**\*.cs" />
+    <Content Include="Docker\**\*" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="LiveCharts.Core" Version="0.9.8" />
